@@ -1,8 +1,9 @@
 ### Olá, sou o Gustavo Lira!
 
 
-- 🔭 Atualmente desenvolvo Front-end
-- 🌱 Estou aprendendo FullStack Development
+- 🔭 Desenvolvedor FrontEnd
+- 🌱 Aprendendo Backend
+- ❤ Perdidamente apaixonado por ReactJS
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: https://www.linkedin.com/in/gustavolirasn/
 
