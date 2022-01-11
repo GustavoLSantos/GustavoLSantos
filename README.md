@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor FrontEnd
-- 🌱 Aprendendo Backend
+- 🌱 Reaprendendo Backend
 - ❤ Perdidamente apaixonado por ReactJS
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: https://www.linkedin.com/in/gustavolirasn/
