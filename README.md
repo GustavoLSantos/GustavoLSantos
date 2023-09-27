@@ -30,5 +30,7 @@
   <a href="https://www.linkedin.com/in/gustavolirasn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GustavoLSantos/GustavoLSantos/blob/output/github-contribution-grid-snake.svg)
+
+  [![An image of @haillfire's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/haillfire)](https://holopin.io/@haillfire)
  
 </div>
