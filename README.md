@@ -1,11 +1,11 @@
-### Olá, sou o Gustavo Lira!
+### Hey, I'm Gustavo Lira!
 
 
-- 🔭 Desenvolvedor Frontend
-- 🌱 Entusiasta em Gestão
-- ❤ Apaixonado por ReactJS
-- 😄 Pronomes: Ele/Dele
-- 📫 Para me contatar: https://www.linkedin.com/in/gustavolirasn/
+- 🔭 FE-Heavy Fullstack Dev
+- 🌱 Management Enthusiast
+- ❤ Passioned for ReactJs
+- 😄 Pronouns: He/Him
+- 📫 Contact Me: https://www.linkedin.com/in/gustavolirasn/
 
 <div align="center">
   <a href="https://github.com/GustavoLSantos">
