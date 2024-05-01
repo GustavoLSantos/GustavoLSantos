@@ -3,7 +3,7 @@
 
 - 🔭 FE-Heavy Fullstack Dev
 - 🌱 Management Enthusiast
-- ❤ Passioned for ReactJs
+- ❤ Passioned for Swift
 - 😄 Pronouns: He/Him
 - 📫 Contact Me: https://www.linkedin.com/in/gustavolirasn/
 
