@@ -1,7 +1,7 @@
 ### Hey, I'm Gustavo Lira!
 
 
-- 🔭 FE-Heavy Fullstack Dev
+- 🔭 Fullstack Dev & iOS Engineer
 - 🌱 Management Enthusiast
 - ❤ Passioned for Swift
 - 😄 Pronouns: He/Him
